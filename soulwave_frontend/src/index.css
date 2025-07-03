@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-gradient-to-b from-pink-100 to-pink-50 font-rubik min-h-screen;
+  }
+
